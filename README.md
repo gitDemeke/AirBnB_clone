@@ -87,4 +87,4 @@ $ python3 unittest -m tests/test_console.py
 ## Authors :black_nib:
 
 * **Demeke Asres** <[Demeke](https://github.com/gitDemeke)>
-* **   ** <[kenoya](https://github.com/Kenoya)>
+* **Okagua Kenoye** <[kenoyek](https://github.com/kenoyek)>
